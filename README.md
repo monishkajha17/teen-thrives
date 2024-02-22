@@ -13,23 +13,26 @@
 
 ![HeadHome](assets/headhome.png)
 
-**HeadHome: Your Go-To Dementia Aid Solution**
+**Teen Thrives: Empowering Teens for Well-being and Growth**
 
-HeadHome aims to reduce the dangers posed by dementia wandering, and provide the caregivers of our dementia counterparts with an effective means of locating them and safely returning them home.
+Teen Thrives is dedicated to empowering teenagers to navigate the challenges of adolescence with confidence and resilience. Our platform offers personalized support, resources, and a supportive community to promote mental health and well-being among teens.
+
 
 ## Problem Statement
 
 <br/>
 <blockquote align='center'>
-<h3>“6 in 10 people with dementia will experience wandering episodes.”
+<h3>“
 
-\- Alzheimer's Association
+"1 in 3 teenagers experience symptoms of anxiety."
+
+\- National Institute of Mental Health
 
 </h3>
 </blockquote>
 <br/>
 
-With the onset of an ageing population, the prevalence of dementia has risen drastically over the years. People with dementia often **experience confusion, disorientation, and memory loss**, which can cause them to wander away from their homes or care facilities without realising where they are going. Dementia wandering episodes are not only **physically dangerous** for patients, but also **emotionally traumatic** for their caregivers.
+Teenagers lack accessible and supportive platforms tailored to their unique challenges, leading to feelings of isolation and hindering their ability to seek help. There's a critical need for a comprehensive online platform providing personalized support and resources to promote their mental health and well-being.
 
 ## 🎥 &nbsp;Demo Video
 
