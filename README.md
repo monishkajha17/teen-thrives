@@ -1,7 +1,7 @@
 <br>
 <div align="center">
-    <div >
-        <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fheadhome_square.png?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>
+    <div>
+<img width="500px" src="https://github.com/monishkajha17/teen-thrives/assets/109274817/78afad3d-9138-49a9-824c-eac41cf2dbdb" alt="Teen-Thrives-Logo">
     </div>
     <div>
             <h3><b>TeenThrives</b></h3>
@@ -11,7 +11,9 @@
 <br>
 <h1 align="center">TeenThrives</h1>
 
-![HeadHome](assets/headhome.png)
+<img height = "500px" src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/251ed0d2-c978-470a-aeb9-e40c175fc98c" alt = "Teen-Thrives-Mockup">
+
+
 
 **Teen Thrives: Empowering Teens for Well-being and Growth**
 
@@ -22,17 +24,19 @@ Teen Thrives is dedicated to empowering teenagers to navigate the challenges of 
 
 <br/>
 <blockquote align='center'>
-<h3>“
+<h3>
 
-"1 in 3 teenagers experience symptoms of anxiety."
+"1 in 5 teens between ages twelve and eighteen faces mental health challenges."
 
-\- National Institute of Mental Health
+\- Adolescent Wellness Academy
 
 </h3>
 </blockquote>
 <br/>
 
-Teenagers lack accessible and supportive platforms tailored to their unique challenges, leading to feelings of isolation and hindering their ability to seek help. There's a critical need for a comprehensive online platform providing personalized support and resources to promote their mental health and well-being.
+Teenagers lack accessible and supportive platforms tailored to their unique challenges, leading to feelings of isolation and hindering their ability to seek help. There's a critical need for a comprehensive online platform providing personalized support and resources to promote their mental health and well-being. 
+
+As per the latest data from the American Psychological Association, more than 20% of teens have seriously considered suicide as their last option. This alarming statistic highlights the myriad of problems adolescents face, encompassing mental health issues, social acceptance, and many other key challenges. It is a pressing matter that demands attention and solutions. Our platform is an earnest endeavor to address and alleviate these problems, fostering an environment where teenagers feel accepted, supported, and confident.
 
 ## 🎥 &nbsp;Demo Video
 
@@ -42,137 +46,66 @@ Teenagers lack accessible and supportive platforms tailored to their unique chal
 
 ## 🛠️ &nbsp;Key Functionalities
 
-![Key Functionalities](assets/key-functionalities.jpg)
+<img src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/5b643719-5eeb-426d-99b0-7262cc7e562a" alt = "Mobile screen mOCKUPS">
 
 ### 1. Community Interface
 
-Join a vibrant community where **`teenagers`** can connect, share achievements, and find support in a positive and understanding environment.
+Here, we offer a community interface space where every teenager can freely share their emotions, opinions, perspectives, achievements, and much more. This platform allows them to engage with each other, provide support, and foster a sense of acceptance within the community.
 
 ### 2. CBT Bot for Mental Health
 
-Engage with our Cognitive Behavioral Therapy (CBT) bot for personalized conversations, mental health monitoring, and receive comprehensive reports to support your well-being journey.
+Our Cognitive Behavioral Therapy (CBT) bot facilitates personalized conversations, monitors mental health, and generates comprehensive reports to support the well-being journey of teenagers. Recognizing that one main factor contributing to mental health issues in teenagers is the feeling of loneliness, our provision of these bots aims to address and alleviate this problem.
 
 ### 3. Educational Blog Section
 
-Dive into our blog section covering various topics, from physical changes to mental health, providing valuable insights and guidance for teenagers.
+Our educational blog section offers content tailored to the teenage audience, considering factors such as age, gender, and mental health scores. This ensures that teenagers receive relevant education on every aspect of their lives, be it associated with mental or physical health, providing comprehensive coverage on various topics.
 
-### 4. Weekly Learnings
-Discover and absorb essential weekly learnings crafted to address the unique challenges and experiences of teenagers, promoting holistic growth.
+### 4. Community and Expert Support Section
 
-### 5. Professional Guidance
-Benefit from evidence-based therapeutic content and suggestions provided by mental health professionals, ensuring credible and reliable guidance.
+In this section, teenagers can explore various communities focused on different factors such as health, academic success, or any other area they find most relevant. They can actively engage within these communities, fostering collaboration and mutual growth. The aim is to cultivate a sense of collaboration within each community, promoting a supportive environment for shared goals and experiences. We also provide a Support section where teenagers can engage with experienced psychologists to obtain more defined solutions for their problems.
 
-<a href="https://raw.githubusercontent.com/GSC23-HeadHome/HeadHome/main/assets/user-flow-diagram.png">
-<img src="./assets/user-flow-diagram.png" target="_blank" />
-</a>
+### 5. Weekly Learnings
+
+Our Weekly Learning section delivers diverse lessons each week to teens, focusing on essential aspects associated with their body changes and mental well-being. It incorporates various assignments and polls to gather their views on addiction, social issues, bullying, and more. This feedback helps tailor lessons for the upcoming weeks, ensuring that we not only address their current problems but also concentrate on building a better future for both them and the world.
+
+### 6. Mood Tracking and Mental Health Analysis
+
+In our app "Teen Thrives," we offer a mood tracking and mental health analysis feature. Teenagers can track their mood daily, and based on their mood, our Cognitive Behavioral Therapy (CBT) bot engages them with thoughtful questions to analyze their emotions and understand the reasons behind their mood. Utilizing this information, the bot provides personalized support and guidance to assist them on their journey.
+
+
 <br />
-
-> Click image to enlarge.
-
-This user flow diagram gives an overview of the communication flows between the various stakeholders through HeadHome.
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
-### SDG 3: Good Health and Well-Being (Target: 3.6)
+<div align = "center">
 
-![SDG3](assets/SDG3.png)
+<img src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/82b3c2d2-75c8-4ce5-8674-187e1660f96f" >
 
-HeadHome directly addresses the issue of **dementia wandering**.
+</div>
 
-Wandering episodes can bring danger to patients such as traffic incidents, with no way to contact their caregivers. Thus, caregivers might feel the need to micromanage their patients, causing significant caregiver stress.
 
-HeadHome can help these patients by providing clear and simple instructions on the wearable to guide the patient home. It also sends alerts to their caregiver whenever they need help, removing the need for constant tracking and monitoring.
+### SDG 3: Good Health and Well-Being 
+
+Teen Thrives actively promotes UN SDG 3, "Good Health and Well-being," by prioritizing the mental health of teenagers. Through features like mood tracking, personalized conversations with a CBT bot, and a supportive community, the platform addresses mental well-being. Tailored educational content, collaborative communities, and weekly learning sessions on physical and mental health further contribute to holistic well-being. 
+
+The inclusion of professional support from psychologists aligns with SDG 3's goal of ensuring access to quality health services. Beyond immediate concerns, Teen Thrives adopts a forward-looking approach, actively contributing to a healthier and more resilient generation, thus supporting the broader goal of SDG 3.
+
+### SDG 4: Quality Education
+
+Teen Thrives aligns with the United Nations Sustainable Development Goal 4 (SDG 4) of "Quality Education" by providing a multifaceted approach to educational content tailored specifically for teenagers. The platform's educational blog section delivers age, gender, and mental health-sensitive content, ensuring relevance and accessibility. Through weekly learning sessions covering crucial topics related to body changes and mental well-being, Teen Thrives contributes to promoting a comprehensive understanding of health education among teenagers. 
+
+Furthermore, by incorporating assignments and polls on issues like addiction, social concerns, and bullying, the platform encourages active participation and engagement, fostering critical thinking and informed decision-making skills. Teen Thrives thus actively supports SDG 4's objective of ensuring inclusive and equitable quality education for all, preparing teenagers for a well-rounded and informed future.
+
+### SDG 10: Reduced Inequalities
+
+Teen Thrives contributes to the United Nations Sustainable Development Goal 10 (SDG 10) of "Reduced Inequalities" by fostering an inclusive and supportive community environment for teenagers. The platform recognizes and values diversity, providing a space where teenagers from different backgrounds can engage, share their experiences, and support one another. By tailoring content based on age, gender, and mental health scores, Teen Thrives ensures that educational resources are accessible and relevant to a diverse user base, reducing information disparities. 
+
+The platform's emphasis on collaborative communities focused on health and academic success further promotes a sense of equality by providing equal opportunities for engagement and growth. Teen Thrives actively addresses social determinants of health, working towards reducing inequalities and creating a platform where all teenagers can thrive, regardless of their background or circumstances.
 
 
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
-<div align="center">
-<kbd>
-<img src="./assets/icons/Flutter.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Dart.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Firebase.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Go.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Gin.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/GCP.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Maps.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/Arduino.png" height="60" />
-</kbd>
-<kbd>
-<img src="./assets/icons/ESP32.png" height="60" />
-</kbd>
-</div>
-<div align="center">
-<h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
-</div>
-
-## ☁️ &nbsp;Enterprise Cloud Architecture & Services
-
-<a href="https://raw.githubusercontent.com/GSC23-HeadHome/HeadHome/main/assets/cloud-architecture.png">
-<img src="./assets/cloud-architecture.png" target="_blank" />
-</a>
-<br />
-
-> Click image to enlarge.
-
-### 1. Presentation Layer
-
-**Users** of HeadHome will directly interact with the Presentation Layer, namely the HeadHome wearable built with **Arduino & ESP32**, as well as the HeadHome mobile application built with **Flutter & Dart**. Any business or computational logic is abstracted onto the serverless backend hosted on **Cloud Run**. With Cloud Run's auto-scaling and load balancing capabilities, in the event of more traffic, our backend is able to seamlessly scale horizontally to meet the growing demands of the application. Due to the flexibility and versatility of Cloud Run, an external load balancer in the form of Google's **Cloud Load Balancing** could be tapped on to deploy our backend to multiple regions and further reduce latencies and downtime.
-
-**For more information:**
-
-HeadHome hardware wearable: [Link](https://github.com/GSC23-HeadHome/HeadHome-Hardware)
-
-HeadHome frontend mobile application: [Link](https://github.com/GSC23-HeadHome/HeadHome-App)
-
-HeadHome backend: [Link](https://github.com/GSC23-HeadHome/HeadHome-Backend)
-
-### 2. CI/CD Pipeline
-
-For **developers**, the HeadHome project comes with a fully integrated CI/CD pipeline equipped with auto-deployment from **Github**. Any code changes to the [HeadHome Backend Repository](https://github.com/GSC23-HeadHome/HeadHome-Backend) will be automatically mirrored onto **Google Cloud Source Repositories** and containerised to **Artifact Registry** via **Cloud Build**. Coupled with **Secret Manager**, the backend container is deployed serverless via **Cloud Run**.
-
-### 3. Backend Services & Storage Layer
-
-Many miscellaneous backend and storage services abstracted and handled via **Google Cloud**, as detailed below.
-
-| Google Cloud Service     | Purpose & Use                                                                                 |
-| ------------------------ | --------------------------------------------------------------------------------------------- |
-| Google Maps Platform     | Directions API to display route back home & Maps SDK to display map on the mobile application |
-| Firebase Cloud Messaging | Handles push notifications to caregivers                                                      |
-| Firebase Authentication  | Handles all authentication related painpoints                                                 |
-| Firebase Storage         | Stores profile assets for the frontend application                                            |
-| Firebase Cloud Firestore | Main production database for all business storage purposes                                    |
-
-### 4. Analysis Layer
-
-![looker dashboard](./assets/looker-dashboard.png)
-
-For **business stakeholders** who are looking to gather critical business intelligence, such as the amount of resources required for each geographical area, the data from our **Cloud Firestore** database is streamed to **Google BigQuery**, and pumped to **Looker Studio** as a business intelligence monitoring platform.
-
-### 5. Operations Layer
-
-![cloud monitoring dashboard](./assets/cloud-monitoring-dashboard.png)
-
-For **business stakeholders** looking to gather operational metrics, HeadHome comes with an Operations Layer including **Cloud Monitoring** and **Cloud Logging**. These Google Cloud Platform services are integral to gain a more holistic profiling of our users and a better understanding of our services internally via uptime checks and alerts.
-
-# Getting Started
-
-[Flutter `(Version 2.19.2+)`](https://docs.flutter.dev/get-started/install) must be installed to run this application.
-
-Detailed instructions on how to run the application can be found [here](https://github.com/GSC23-HeadHome/HeadHome-App/blob/main/README.md#getting-started).
+<img src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/4f8611ce-44c2-4c44-a93b-890ec8e18ea2">
 
 ## 👥 &nbsp;Contributors
 
