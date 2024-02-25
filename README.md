@@ -108,14 +108,25 @@ The platform's emphasis on collaborative communities focused on health and acade
 <img src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/4f8611ce-44c2-4c44-a93b-890ec8e18ea2">
 
 ## 👥 &nbsp;Contributors
+<div align = "center">
+<img width = "200px" src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/bad9636b-2fea-472e-9ac4-1cac7a43d2c6">
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+<img width = "200px" src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/034a17be-b062-4cd7-98b8-b4be6c6cac5b">
+</div>
 
-| <a href="https://github.com/chayhuixiang"></a> | <a href="https://github.com/changdaozheng"></a> | <a href="https://github.com/Trigon25"></a> | <a href="https://github.com/ongjx16"></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"><h3><b><a href="https://github.com/chayhuixiang">Monishka Jha</a></b></h3><p><i>Indira Gandhi Delhi Technical University for Women</i></p></div>                                                                               | <div align="center"><h3><b><a href="https://github.com/changdaozheng">Ekta Roy</a></b></h3></a><p><i>Indira Gandhi Delhi Technical University for Women</i></p></div>                                                                          |
-
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
