@@ -42,7 +42,7 @@ As per the latest data from the American Psychological Association, more than 20
 
 <a href="https://youtu.be/WQ9bFPmBhAE"><img height = "400px" src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/25ce61a3-349b-4245-af33-732a5d03a16e"></a>
 
-> Video Link: https://youtu.be/peDNWLrffIQ
+> Video Link: https://youtu.be/WQ9bFPmBhAE
 
 ## 🛠️ &nbsp;Key Functionalities
 
